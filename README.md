@@ -1,17 +1,42 @@
-<h1 align="center">Hi, I'm Cole deBoer</h1>
-<h3 align="center">A Dedicated Programmer looking to progress and improve 👍</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Shroom Bound](https://shroom-bound.web.app/)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier%20Prime&size=24&pause=1000&color=000000&width=435&lines=Full-stack%20Web%20Programmer;Cole%20deBoer&center=true&vCenter=true&repeat=true)
 
-- 📫 How to reach me **deboercole06@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+## **Skills**
+### **Programming Languages**
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+
+### **Frontend Development**
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+
+### **Backend Development**
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+
+### **Mobile App Development**
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+
+### **Devops**
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+
+## **Analytics & Statistics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cole-deBoer&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cole-deBoer&theme=dark" alt="GitHub Streak Stats" />
+
+</div>
+
+
+## **Socials**
+
 <p align="left">
+  <a href="https://github.com/Cole-deBoer" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/cole-r-deboer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cole-deboer&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="cole-deboer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cole-deboer&theme=dark" alt="cole-deboer" /></p>
+---
+<p align="center">This README was generated by <a href="https://github.com/abhijeetBhale/Readme-Generator" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Readme%20Generator-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Readme Generator" /></a></p>
+<p align="center">Developed by <b>Abhijeet Bhale</b></p>
